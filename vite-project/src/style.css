@@ -1,0 +1,7 @@
+table{
+    border: 2px solid black;
+}
+th,td{
+    color:violet;
+    border:solid  1px black;
+}

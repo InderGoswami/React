@@ -1,5 +1,7 @@
 import { useState } from "react";
 
+import "bootstrap/dist/css/bootstrap.min.css"
+import "./style.css"
 function ProductList() {
     let [prodList,setProductList]=useState([]);
     setTimeout(() => {
